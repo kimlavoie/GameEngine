@@ -1,0 +1,5 @@
+# Ce document initialise les sons utilisés durant le jeu.
+#
+#	nom du son		chemin
+#---------------------------------------------------------------------------
+	heal			Sounds/heal.ogg

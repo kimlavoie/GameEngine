@@ -1,0 +1,9 @@
+# Ce document initialise les sprites utilisés durant le jeu.
+#
+#	nom du sprite	nom de l'image		x		y
+#---------------------------------------------------------------------------
+	oeufCuit		oeufCuit			30		30
+	fleur1			fleur1				80		60
+	fleur2			fleur1				100		120
+	fleur3			fleur2				200		0
+	fleur4			fleur2				0		200

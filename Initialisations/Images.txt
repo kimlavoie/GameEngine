@@ -1,0 +1,7 @@
+#	Ce document donne la liste des images à initialiser.
+#
+#	nom de l'image		chemin de l'image
+#-----------------------------------------------------------------------
+	oeufCuit			Images/oeufCuit.png
+	fleur1				Images/fleur1.png
+	fleur2				Images/fleur2.png

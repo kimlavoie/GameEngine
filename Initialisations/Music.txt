@@ -1,0 +1,6 @@
+# Ce document initialise les musiques utilisées durant le jeu.
+#
+#	nom du son		chemin
+#---------------------------------------------------------------------------
+	boss			Music/boss.ogg
+	aeris			Music/aeris.ogg
