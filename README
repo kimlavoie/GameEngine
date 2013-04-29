@@ -1,0 +1,11 @@
+Hi everyone!
+
+Here is a little project I have started a while ago. It is meant to
+become a little 2D game engine. It is still a project in development,
+but I intend to complete it eventually. To build the project, you'll
+need the libsfml-dev.Download it by entering the following command in
+a Linux terminal:
+
+	sudo apt-get install libsfml-dev
+	
+After which you can enter "make" to build the project.
